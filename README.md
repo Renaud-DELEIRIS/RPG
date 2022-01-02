@@ -27,4 +27,4 @@ make
 ```bash
 ./my_rpg
 ```
-See more on my [Portfolio](renauddeleiris.me)
+See more on my [Portfolio](http://renauddeleiris.me)
